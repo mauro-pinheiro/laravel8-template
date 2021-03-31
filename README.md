@@ -1,4 +1,5 @@
-# Template de Laravel 8 configurado com templete e starterkit e mais algumas libs de dev convenientes
+# Template de Laravel 8
+Configurado com templete e starterkit e mais algumas libs de dev convenientes
 
 # Ferramentas de Desenvolvimento
 - Framework: [Laravel 8](https://laravel.com/docs/8.x)
