@@ -1,7 +1,7 @@
 # Template de Laravel 8
 Configurado com templete e starterkit e mais algumas libs de dev convenientes
 
-# Ferramentas de Desenvolvimento
+# Ferramentas
 - Framework: [Laravel 8](https://laravel.com/docs/8.x)
 - Bibliotecas
   - [Jetsteam](https://jetstream.laravel.com/2.x/introduction.html)
